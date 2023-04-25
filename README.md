@@ -14,8 +14,9 @@ The binary search algorithm works by comparing the element to be searched by the
 
 - Case 3 − element < middle, search for element in the sub-array starting from 0 index to middle -1.
 
+![Screenshot 2023-04-25 222446](https://user-images.githubusercontent.com/113619312/234348678-d59647dc-c601-4811-88e0-ab3b2851a611.png)
 
-![download](https://user-images.githubusercontent.com/113619312/234347902-e9e4a92d-3298-4e83-b9e2-664577c2c49e.png)
+
 
 ## __Algorithm__
 Parameters inital_value , end_value
